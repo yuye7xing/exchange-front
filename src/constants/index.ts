@@ -7,7 +7,7 @@ import { pinnedPairs, pinnedStableCoinPairs } from './token'
 // TODO
 export const ROUTER_ADDRESS = (function() {
   return NETWORK_CHAIN_ID === ChainId.HECO_MAINNET
-    ? '0xBe4AB2603140F134869cb32aB4BC56d762Ae900B'
+    ? '0xff0a1d838d7e36a7118d841960ad98b3275cb306'
     : '0xec5bBf69C6BE29a7566F9b7D8125321DF2c82797'
 })()
 

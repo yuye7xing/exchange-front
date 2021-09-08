@@ -12,7 +12,7 @@ export const contractAddresses = {
   },
   masterChef: {
     256: '0x203f1800EE213c0284c0f2A723ed4228633125cD',
-    128: '0xa02fF30986211B7ca571AcAE5AD4D25ab1e58426'
+    128: '0x016a66e423d9da6805df9b0b6f62674b3f946'
   },
   sousChef: {
     256: '0x9b7d4fd169A38e33011B96cFA36CFfB70e3e8236',
